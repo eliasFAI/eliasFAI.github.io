@@ -1,0 +1,32 @@
+h3{
+color:red;
+}
+#bodyBackground{
+    background-color: #154360
+}
+#mydescription{
+    background-color: #AED6F1
+}
+#mycol{
+    background-color: #AED6F1
+}
+#mycolumn{
+    background-color: #AED6F1
+}
+#mycolumn2{
+    background-color: #AED6F1
+}
+#mycolumn3{
+    background-color: #AED6F1
+}
+#profile-wrapper{
+    text-align: center;
+    background-color:   #AED6F1
+}
+#profile-pic{
+   width:150px;
+   height:150px;
+   border-radius:50%;
+   margin-left:auto;
+   margin-right:auto;
+}
